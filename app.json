@@ -12,19 +12,19 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 API ID",
+            "description": "28748671",
             "required": true
         },
         "API_HASH": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 API HASH",
+            "description": "f53ec7c41ce34e6d585674ed9ce6167c",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
+            "description": "7791056995:AAGTt6xsnHrcST6V496hzHlht1RpO-be1lc",
             "required": true
         },
         "VIP_USERS": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 Auth User ID",
+            "description": "1169394017",
             "required": true
         }
     },
